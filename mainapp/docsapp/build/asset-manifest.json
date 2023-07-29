@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/DOC-Care/static/css/main.7cfe1ec4.css",
+    "main.js": "/DOC-Care/static/js/main.09182d1d.js",
+    "static/js/787.bf2e7014.chunk.js": "/DOC-Care/static/js/787.bf2e7014.chunk.js",
+    "static/media/homebg.jpg": "/DOC-Care/static/media/homebg.4070ee9cc3e83327b99e.jpg",
+    "static/media/Logo.png": "/DOC-Care/static/media/Logo.3d1509a780eaa59ac78a.png",
+    "index.html": "/DOC-Care/index.html",
+    "main.7cfe1ec4.css.map": "/DOC-Care/static/css/main.7cfe1ec4.css.map",
+    "main.09182d1d.js.map": "/DOC-Care/static/js/main.09182d1d.js.map",
+    "787.bf2e7014.chunk.js.map": "/DOC-Care/static/js/787.bf2e7014.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cfe1ec4.css",
+    "static/js/main.09182d1d.js"
+  ]
+}
