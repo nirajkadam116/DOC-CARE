@@ -1,0 +1,8 @@
+version: 1
+services:
+  - name: frontend
+    buildCommand: npm install && npm run build
+    publish: docsapp/build
+  - name: backend
+    buildCommand: npm install
+    publish: backdoc
