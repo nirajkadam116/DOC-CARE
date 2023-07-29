@@ -1,0 +1,59 @@
+/* Navbar.css */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  }
+  
+  .navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #a3c9c6; /* Match the background color with home.css */
+  padding: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .Logo {
+  width: 60px; /* Set the desired width /
+  height: 60px; / Set the desired height /
+  background: transparent;
+  / Add any other styles you want */
+  }
+  
+  .navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #090909;
+  text-decoration: none;
+  margin-left: 10px;
+  }
+  
+  .navbar-brand:hover {
+  color: #2c4d6e;
+  }
+  
+  .navbar-nav {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  }
+  
+  .nav-item {
+  list-style: none;
+  margin-right: 15px;
+  }
+  
+  .nav-link {
+  font-size: 1rem;
+  color: #313229;
+  text-decoration: none;
+  margin-right: 15px;
+  padding: 8px 12px;
+  border-radius: 5px;
+  transition: background-color 0.2s ease;
+  }
+  
+  .nav-link:hover {
+    background-color: #77786e;
+  }

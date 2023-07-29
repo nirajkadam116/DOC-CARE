@@ -1,0 +1,63 @@
+/* edit.css */
+
+/* Body styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #b8bead;
+  margin: 0;
+  padding: 0;
+}
+
+/* Container styles */
+.container {
+  max-width: 12px;
+  margin: 0 auto;
+  margin-top: 20px; /* Adjust the margin-top as needed */
+  background-color: #4f513e;
+  padding: 0; /* Remove padding to let the table take full width */
+}
+
+/* Header styles */
+h1 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+
+
+/* Edit form styles */
+form {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+label {
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+input[type="text"],
+textarea {
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 8px 16px;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
+  background-color: #77786e;
+  color: #fff;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #4f513e;
+}
+
+/* Add any additional styles for other elements as needed */
